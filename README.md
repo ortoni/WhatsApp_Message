@@ -1,6 +1,6 @@
-# whatsapp_text
+# Whats App Utility
 
-A new Flutter project.
+A Flutter project, which is done using the What's App API.
 
 ## Getting Started
 
